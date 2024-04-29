@@ -43,3 +43,11 @@ tasks.named<Test>("test") {
     // Use JUnit Platform for unit tests.
     useJUnitPlatform()
 }
+
+normalization {
+    runtimeClasspath {
+        metaInf {
+            ignoreAttribute("Build-Unix-Timestamp")
+        }
+    }
+}
