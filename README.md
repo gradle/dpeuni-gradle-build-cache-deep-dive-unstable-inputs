@@ -13,10 +13,12 @@ training module. In this exercise you will go over the following:
 * Practice troubleshooting cache misses due to unstable inputs
 * Get familiar with using input normalization
 
+---
 ## Prerequisites
 
 * Finished going through the troubleshooting section in [Gradle Build Cache Deep Dive](https://dpeuniversity.gradle.com/app/courses/54469478-55ba-416d-9cef-3b5aa33dd2a5)
 
+---
 ## Develocity Authentication
 
 If you haven't already done so, you can authenticate with the training Develocity service by running:
@@ -43,6 +45,7 @@ Once confirmed you will see the following message and you can close the browser 
 <img width="75%" height="75%" src="https://github.com/gradle/build-tool-training-exercises/assets/120980/1711c9db-814c-4df1-9d18-42fe5d1b82f8">
 </p>
 
+---
 ## Steps
 
 1. Open the Gradle project in this repository in an editor of your choice
@@ -85,6 +88,7 @@ Once confirmed you will see the following message and you can close the browser 
 <img width="75%" height="75%" src="https://github.com/gradle/build-tool-training-exercises/assets/120980/6a3e4d5b-4093-4cc3-a693-a9bd65905609">
 </p>
 
+---
 ## Solution Reference
 
 If you get stuck you can refer to the `solution` branch of this repository.
