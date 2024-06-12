@@ -17,6 +17,8 @@ gradleEnterprise {
         capture {
             isTaskInputFiles = true
         }
+        tag("dpeuni-gradle-build-cache-deep-dive-unstable-inputs")
+        value("Course", "Gradle Build Cache Deep Dive")
     }
 }
 
